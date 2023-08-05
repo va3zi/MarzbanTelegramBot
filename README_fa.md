@@ -10,7 +10,7 @@
         <img src="https://img.shields.io/badge/telegram-group-blue?style=flat-square&logo=telegram" />
     </a>
     <a href="#">
-        <img src="https://img.shields.io/github/stars/mahdigholipour3/bottelegrammarzban?style=social" />
+        <img src="https://img.shields.io/github/stars/iamtheted/MarzbanTelegramBot?style=social" />
     </a>
 </p>
 
@@ -67,7 +67,7 @@
  1- نسخه اخر عمومی را از لینک زیر دانلود کنید.
  
 
- [دانلود](https://github.com/mahdigholipour3/bottelegrammarzban/releases).
+ [دانلود](https://github.com/iamtheted/MarzbanTelegramBot/releases).
 
 2- پس از دانلود سورس به داخل فایل منیجر هاست خود رفته و سورس را داخل پوشه public_html آپلود کنید. پس از آپلود سورس آن را از حالت فشرده خارج کنیدد.
 
