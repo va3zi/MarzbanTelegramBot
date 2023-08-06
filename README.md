@@ -62,7 +62,7 @@ Bot Mirza Panel is a bot for selling VPN services specifically for the Mirzaban 
 # Installation Guide
 
 1. Download the latest public version from the link below:
-   [Download](https://github.com/iamtheted/MarzbanTelegramBot/releases).
+   [Download](https://github.com/va3zi/MarzbanTelegramBot/releases).
 
 2. After downloading the source, upload it to the "public_html" folder of your hosting file manager. Once uploaded, extract the source from the compressed file.
 
